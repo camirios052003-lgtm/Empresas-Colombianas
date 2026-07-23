@@ -1,2 +1,2 @@
 # Empresas-Colombianas
-Información financiera de las 10.000 empresas colombianas más grandes 
+Analizar el desempeño financiero de las empresas colombianas más importantes para identificar tendencias, comparar sectores económicos y construir indicadores clave mediante un proceso completo de análisis de datos.
